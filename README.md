@@ -1,6 +1,12 @@
 # 📚 Sistema de Controle de Estoque de Livraria
 
-Este projeto foi desenvolvido como parte do trabalho da disciplina **[Nome da Disciplina]**, com o objetivo de aplicar conceitos de Programação Orientada a Objetos em Java.
+Este projeto foi desenvolvido pelos integrantes:
+Misael Francisco Pardo,
+Caio Samuel do Espirito Santo Montes,
+Luciano César Marques da Costa Inocêncio 
+e João Paulo de Almeida Biló.    
+
+como parte do trabalho da disciplina Informática para Negócios, com o objetivo de aplicar conceitos de Programação Orientada a Objetos em Java.
 
 ## 🧾 Descrição
 
@@ -33,7 +39,7 @@ As classes estão organizadas no pacote `entities`:
 
 ## 💻 Tecnologias Utilizadas
 
-- Java 8+
+- Java 23
 - `java.sql.Date` para integração com banco de dados
 - Orientação a Objetos (Herança, Encapsulamento, Composição)
 
@@ -41,4 +47,4 @@ As classes estão organizadas no pacote `entities`:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/MisaelPardo/Java_inter

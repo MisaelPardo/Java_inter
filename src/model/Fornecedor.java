@@ -1,4 +1,5 @@
-package entities;
+package  model;
+;
 
 public final class Fornecedor {
     private int id;

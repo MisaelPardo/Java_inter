@@ -21,7 +21,7 @@ O foco principal está na modelagem de classes e relacionamentos entre elas, pre
 
 ## 🧱 Estrutura de Classes
 
-As classes estão organizadas no pacote `entities`:
+As classes estão organizadas no pacote `model`:
 
 ### 👥 Pessoas
 - `Pessoa` (abstrata)

@@ -1,4 +1,4 @@
-package entities;
+package model;
 
 public final class Livro {
     private int isbn;
